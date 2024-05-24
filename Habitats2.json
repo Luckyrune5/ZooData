@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Lion Enclosure",
+    "location": "North Zone",
+    "area": "2000 sq meters",
+    "hasWaterFeature": true,
+    "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Lions.webp"
+  },
+  {
+    "id": 2,
+    "name": "Elephant Dome",
+    "location": "East Zone",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true,
+    "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Elephants.webp"
+  },
+  {
+    "id": 3,
+    "name": "Cheetah Plains",
+    "location": "South Zone",
+    "area": "1800 sq meters",
+    "hasWaterFeature": false,
+    "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Cheetahs.webp"
+  },
+  {
+    "id": 4,
+    "name": "Giraffe Enclosure",
+    "location": "West Zone",
+    "area": "2200 sq meters",
+    "hasWaterFeature": true,
+    "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Giraffes.webp"
+  },
+  {
+    "id": 5,
+    "name": "Zebra Savannah",
+    "location": "Central Zone",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true,
+    "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zebras.webp"
+  }
+]
