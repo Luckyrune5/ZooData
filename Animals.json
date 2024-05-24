@@ -10,7 +10,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Leo.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
-    "habitatId": 1
+    "habitat": {
+      "id": 1,
+      "name": "Lion Enclosure",
+      "location": "North Zone",
+      "area": "2000 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Lions.webp"
+    }
   },
   {
     "id": 2,
@@ -23,7 +30,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Nala.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
-    "habitatId": 1
+    "habitat": {
+      "id": 1,
+      "name": "Lion Enclosure",
+      "location": "North Zone",
+      "area": "2000 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Lions.webp"
+    }
   },
   {
     "id": 3,
@@ -36,7 +50,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Simba.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
-    "habitatId": 1
+    "habitat": {
+      "id": 1,
+      "name": "Lion Enclosure",
+      "location": "North Zone",
+      "area": "2000 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Lions.webp"
+    }
   },
   {
     "id": 4,
@@ -49,7 +70,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Manny.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
-    "habitatId": 2
+    "habitat": {
+      "id": 2,
+      "name": "Elephant Dome",
+      "location": "East Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Elephants.webp"
+    }
   },
   {
     "id": 5,
@@ -62,7 +90,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Ellie.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
-    "habitatId": 2
+    "habitat": {
+      "id": 2,
+      "name": "Elephant Dome",
+      "location": "East Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Elephants.webp"
+    }
   },
   {
     "id": 6,
@@ -75,7 +110,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Dumbo.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
-    "habitatId": 2
+    "habitat": {
+      "id": 2,
+      "name": "Elephant Dome",
+      "location": "East Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Elephants.webp"
+    }
   },
   {
     "id": 7,
@@ -88,7 +130,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Chester.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
-    "habitatId": 3
+    "habitat": {
+      "id": 3,
+      "name": "Cheetah Plains",
+      "location": "South Zone",
+      "area": "1800 sq meters",
+      "hasWaterFeature": false,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Cheetahs.webp"
+    }
   },
   {
     "id": 8,
@@ -101,7 +150,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Spotty.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
-    "habitatId": 3
+    "habitat": {
+      "id": 3,
+      "name": "Cheetah Plains",
+      "location": "South Zone",
+      "area": "1800 sq meters",
+      "hasWaterFeature": false,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Cheetahs.webp"
+    }
   },
   {
     "id": 9,
@@ -114,7 +170,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Dash.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
-    "habitatId": 3
+    "habitat": {
+      "id": 3,
+      "name": "Cheetah Plains",
+      "location": "South Zone",
+      "area": "1800 sq meters",
+      "hasWaterFeature": false,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Cheetahs.webp"
+    }
   },
   {
     "id": 10,
@@ -127,7 +190,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Gerry.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
-    "habitatId": 4
+    "habitat": {
+      "id": 4,
+      "name": "Giraffe Enclosure",
+      "location": "West Zone",
+      "area": "2200 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Giraffes.webp"
+    }
   },
   {
     "id": 11,
@@ -140,7 +210,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Ginny.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
-    "habitatId": 4
+    "habitat": {
+      "id": 4,
+      "name": "Giraffe Enclosure",
+      "location": "West Zone",
+      "area": "2200 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Giraffes.webp"
+    }
   },
   {
     "id": 12,
@@ -153,7 +230,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Junior.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
-    "habitatId": 4
+    "habitat": {
+      "id": 4,
+      "name": "Giraffe Enclosure",
+      "location": "West Zone",
+      "area": "2200 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Giraffes.webp"
+    }
   },
   {
     "id": 13,
@@ -166,7 +250,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zara.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
-    "habitatId": 5
+    "habitat": {
+      "id": 5,
+      "name": "Zebra Savannah",
+      "location": "Central Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zebras.webp"
+    }
   },
   {
     "id": 14,
@@ -179,7 +270,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zane.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
-    "habitatId": 5
+    "habitat": {
+      "id": 5,
+      "name": "Zebra Savannah",
+      "location": "Central Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zebras.webp"
+    }
   },
   {
     "id": 15,
@@ -192,6 +290,13 @@
     "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Stripe.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
-    "habitatId": 5
+    "habitat": {
+      "id": 5,
+      "name": "Zebra Savannah",
+      "location": "Central Zone",
+      "area": "1500 sq meters",
+      "hasWaterFeature": true,
+      "imageHabitat": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zebras.webp"
+    }
   }
 ]
