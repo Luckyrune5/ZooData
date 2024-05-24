@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lion Enclosure",
+    "location": "North Zone",
+    "area": "2000 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 2,
+    "name": "Elephant Dome",
+    "location": "East Zone",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 3,
+    "name": "Cheetah Plains",
+    "location": "South Zone",
+    "area": "1800 sq meters",
+    "hasWaterFeature": false
+  },
+  {
+    "id": 4,
+    "name": "Giraffe Enclosure",
+    "location": "West Zone",
+    "area": "2200 sq meters",
+    "hasWaterFeature": true
+  },
+  {
+    "id": 5,
+    "name": "Zebra Savannah",
+    "location": "Central Zone",
+    "area": "1500 sq meters",
+    "hasWaterFeature": true
+  }
+]
