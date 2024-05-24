@@ -7,7 +7,7 @@
     "gender": "Male",
     "isEndangered": true,
     "birthDate": "2016-04-05",
-    "imageUrl": "http://example.com/leo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Leo.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
     "habitatId": 1
@@ -20,7 +20,7 @@
     "gender": "Female",
     "isEndangered": true,
     "birthDate": "2017-07-22",
-    "imageUrl": "http://example.com/nala.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Nala.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
     "habitatId": 1
@@ -33,7 +33,7 @@
     "gender": "Male",
     "isEndangered": true,
     "birthDate": "2021-03-14",
-    "imageUrl": "http://example.com/simba.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Simba.webp",
     "species": "Lion",
     "food": ["Meat", "Bones"],
     "habitatId": 1
@@ -46,7 +46,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "1999-08-12",
-    "imageUrl": "http://example.com/manny.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Manny.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
     "habitatId": 2
@@ -59,7 +59,7 @@
     "gender": "Female",
     "isEndangered": false,
     "birthDate": "2002-01-30",
-    "imageUrl": "http://example.com/ellie.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Ellie.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
     "habitatId": 2
@@ -72,7 +72,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "2019-11-15",
-    "imageUrl": "http://example.com/dumbo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Dumbo.webp",
     "species": "Elephant",
     "food": ["Grass", "Fruits", "Vegetables"],
     "habitatId": 2
@@ -85,7 +85,7 @@
     "gender": "Male",
     "isEndangered": true,
     "birthDate": "2018-03-22",
-    "imageUrl": "http://example.com/chester.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Chester.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
     "habitatId": 3
@@ -98,7 +98,7 @@
     "gender": "Female",
     "isEndangered": true,
     "birthDate": "2020-05-10",
-    "imageUrl": "http://example.com/spotty.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Spotty.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
     "habitatId": 3
@@ -111,7 +111,7 @@
     "gender": "Male",
     "isEndangered": true,
     "birthDate": "2021-07-15",
-    "imageUrl": "http://example.com/dash.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Dash.webp",
     "species": "Cheetah",
     "food": ["Meat", "Small mammals"],
     "habitatId": 3
@@ -124,7 +124,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "2009-09-12",
-    "imageUrl": "http://example.com/gerry.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Gerry.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
     "habitatId": 4
@@ -137,7 +137,7 @@
     "gender": "Female",
     "isEndangered": false,
     "birthDate": "2012-01-23",
-    "imageUrl": "http://example.com/ginny.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Ginny.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
     "habitatId": 4
@@ -150,7 +150,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "2020-08-05",
-    "imageUrl": "http://example.com/junior.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Junior.webp",
     "species": "Giraffe",
     "food": ["Leaves", "Twigs"],
     "habitatId": 4
@@ -163,7 +163,7 @@
     "gender": "Female",
     "isEndangered": false,
     "birthDate": "2017-11-11",
-    "imageUrl": "http://example.com/zara.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zara.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
     "habitatId": 5
@@ -176,7 +176,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "2016-06-24",
-    "imageUrl": "http://example.com/zane.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Zane.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
     "habitatId": 5
@@ -189,7 +189,7 @@
     "gender": "Male",
     "isEndangered": false,
     "birthDate": "2019-12-03",
-    "imageUrl": "http://example.com/stripe.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Luckyrune5/ZooData/main/ZooImages/Stripe.webp",
     "species": "Zebra",
     "food": ["Grass", "Leaves"],
     "habitatId": 5
